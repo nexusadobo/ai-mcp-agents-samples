@@ -1,0 +1,12 @@
+[project]
+name = "ai-foundry-agents-samples"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "azure-identity>=1.25.0",
+    "openai>=1.108.2",
+    "openai-agents>=0.3.1",
+    "python-dotenv>=1.1.1",
+]
